@@ -18,9 +18,11 @@ https://gitmind.com/app/docs/mrhnzh4t
 - [Coursera](https://www.coursera.org/learn/blockchain-basics)
 - [edX](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 2. 開發者社區
-3. Youtube影片
+- [Ethereum](https://ethereum.org/en/)
+- [Hyperledger](https://www.hyperledger.org/community)
+4. Youtube影片
 - [Blockchain Technology Explained (2 Hour Course)](https://youtu.be/qOVAbKKSH10)
-4. 相關書籍
+5. 相關書籍
 # 學習時間規劃
 1. 基礎知識學習 : 學習區塊鏈、智能合約、安全性與加密、Web前端開發
 2. 技能深入學習 : 以太坊開發、分散式儲存、智能合約開發、Web後端開發
