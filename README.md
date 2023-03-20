@@ -24,9 +24,6 @@ https://gitmind.com/app/docs/mrhnzh4t
 - [Blockchain Technology Explained (2 Hour Course)](https://youtu.be/qOVAbKKSH10)
 4. 相關書籍
 # 學習時間規劃
-主要分為三階段 :
-1. 基礎知識學習 : 學習區塊鏈、智能合約、安全性與加密、Web前端開發
-2. 技能深入學習 : 以太坊開發、分散式儲存、智能合約開發、Web後端開發
-3. 實踐 Web 3.0
+![image](https://github.com/chihsuanyi/SAD/blob/main/time.png)
 - [Notion](https://www.notion.so/4dd0c9fa794d4e7889c3c1835147ec57?v=1dec6eafb15143eeb21df0bd83d206eb)
 
