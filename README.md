@@ -14,12 +14,12 @@ https://gitmind.com/app/docs/mrhnzh4t
 5. 安全性與加密
 # 學習管道與資源
 1. 在線平台
--[Udemy](https://www.udemy.com/course/blockchain-theory-101/)
--[Coursera](https://www.coursera.org/learn/blockchain-basics)
--[edX](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+- [Udemy](https://www.udemy.com/course/blockchain-theory-101/)
+- [Coursera](https://www.coursera.org/learn/blockchain-basics)
+- [edX](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 2. 開發者社區
 3. Youtube影片
--[Blockchain Technology Explained (2 Hour Course)](https://youtu.be/qOVAbKKSH10)
+- [Blockchain Technology Explained (2 Hour Course)](https://youtu.be/qOVAbKKSH10)
 4. 相關書籍
 # 學習時間規劃
 1. 基礎知識學習 : 學習區塊鏈、智能合約、安全性與加密、Web前端開發
