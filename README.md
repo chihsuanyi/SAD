@@ -22,3 +22,6 @@ https://gitmind.com/app/docs/mrhnzh4t
 4. Google
 5. chatGPT
 
+# HW1
+https://youtu.be/nbEHNlEE_h8
+
