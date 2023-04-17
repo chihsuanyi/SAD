@@ -25,4 +25,5 @@ https://gitmind.com/app/docs/mrhnzh4t
 # HW1
 https://youtu.be/nbEHNlEE_h8
 # HW2
+https://youtu.be/N6jx9-Mquf4
 
