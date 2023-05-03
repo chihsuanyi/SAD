@@ -27,4 +27,4 @@ https://youtu.be/nbEHNlEE_h8
 # HW2
 https://youtu.be/N6jx9-Mquf4
 # HW3
-https://youtu.be/N6
+https://youtu.be/eYcxH9zKNMc
